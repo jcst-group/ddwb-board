@@ -15,7 +15,7 @@
     "highcharts": "^7.2.1",
     "iview": "^3.4.2",
     "lodash": "^4.17.14",
-    "moment": "^2.24.0",
+    "moment": "^2.29.2",
     "nprogress": "^0.2.0",
     "vue": "^2.6.6",
     "vue-cookies": "^1.5.13",
